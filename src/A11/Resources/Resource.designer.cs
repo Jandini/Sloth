@@ -4565,10 +4565,7 @@ namespace A11
 			public const int search_menu_title = 2131558447;
 			
 			// aapt resource value: 0x7F0D0030
-			public const int sloth = 2131558448;
-			
-			// aapt resource value: 0x7F0D0031
-			public const int status_bar_notification_info_overflow = 2131558449;
+			public const int status_bar_notification_info_overflow = 2131558448;
 			
 			static String()
 			{
