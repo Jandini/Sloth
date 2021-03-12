@@ -6,11 +6,11 @@ using Android.App;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("A11")]
+[assembly: AssemblyTitle("Sloth")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Janda")]
-[assembly: AssemblyProduct("A11")]
+[assembly: AssemblyProduct("Sloth")]
 [assembly: AssemblyCopyright("Copyright © Alexandra Janda 2021")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]

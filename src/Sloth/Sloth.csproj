@@ -10,8 +10,8 @@
     <TemplateGuid>{122416d6-6b49-4ee2-a1e8-b825f31c79fe}</TemplateGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>A11</RootNamespace>
-    <AssemblyName>A11</AssemblyName>
+    <RootNamespace>Sloth</RootNamespace>
+    <AssemblyName>Sloth</AssemblyName>
     <FileAlignment>512</FileAlignment>
     <Deterministic>True</Deterministic>
     <AndroidApplication>True</AndroidApplication>

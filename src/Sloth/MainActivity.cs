@@ -5,7 +5,7 @@ using Android.Widget;
 using AndroidX.AppCompat.App;
 using Xamarin.Essentials;
 
-namespace A11
+namespace Sloth
 {
     [Activity(Label = "@string/app_title", Theme = "@style/AppTheme", MainLauncher = true)]
     public class MainActivity : AppCompatActivity
