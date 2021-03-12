@@ -1,6 +1,9 @@
 # Sloth
 My first Xarmin application for Android.
 
+![image](https://user-images.githubusercontent.com/19593367/111004415-ea9ad400-8380-11eb-83fd-a14a8a3cfbe9.png)
+
+
 - Sloth icon
 - Sloth color palette
 - Sloth image button 
