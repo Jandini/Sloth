@@ -1,5 +1,7 @@
 <resources>
-    <string name="app_name">I ❤ Sloths...</string>
+    <string name="app_name">Sloth ❤</string>
+    <string name="app_title">I ❤ Sloths...</string>
     <string name="action_settings">Settings</string>
     <string name="designed_by">Designed by Alexandra Janda</string>
+    <string name="question">What do you call a three hump camel?…</string>       
 </resources>
