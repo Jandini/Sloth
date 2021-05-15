@@ -15,3 +15,5 @@ My first Xarmin application for Android.
 ![image](https://user-images.githubusercontent.com/19593367/111001108-187d1a00-837b-11eb-9007-8fea3b75c274.png)
 ![image](https://user-images.githubusercontent.com/19593367/111001412-a2c57e00-837b-11eb-8179-2b97665b2dc1.png)
 
+
+- Sloth icon downloaded from https://iconscout.com/icon/sloth-1400398
