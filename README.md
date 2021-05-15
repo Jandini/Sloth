@@ -7,7 +7,7 @@ My first Xarmin application for Android.
 - Sloth icon
 - Sloth color palette
 - Sloth image button 
-- The button click will [Youtube video](https://www.youtube.com/watch?v=drhsKTAkRZc) to answer the question: 
+- The button click will open [Youtube video](https://www.youtube.com/watch?v=drhsKTAkRZc) to answer the question: 
 > "What do you call a three humped camel?
 
 ![image](https://user-images.githubusercontent.com/19593367/111001274-63972d00-837b-11eb-820c-6bb169409259.png)
